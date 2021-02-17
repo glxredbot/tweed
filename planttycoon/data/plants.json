@@ -253,11 +253,11 @@
       "reward": 1200
     },
     {
-      "name": "Jack Fruit Tree",
+      "name": "Pineapple Express",
       "article": "a",
       "time": 5400,
       "rarity": "uncommon",
-      "image": "http://i.imgur.com/2D79TlA.jpg",
+      "image": "https://i.imgur.com/G7xAXAd.jpg",
       "health": 100,
       "degradation": 0.75,
       "threshold": 110,
