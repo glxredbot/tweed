@@ -1,0 +1,17 @@
+{
+  "author": [
+    "test"
+  ],
+  "min_bot_version": "test",
+  "description": "test",
+  "hidden": false,
+  "install_msg": "test",
+  "requirements": [],
+  "short": "test",
+  "end_user_data_statement": "test",
+  "tags": [
+    "test",
+    "test",
+    "test"
+  ]
+}
